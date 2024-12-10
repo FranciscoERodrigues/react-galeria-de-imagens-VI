@@ -8,7 +8,7 @@ function GaleriaDeImagens() {
   ]);
 
   const adicionarImagem = () => {
-    setImagens([...imagens, 'https://via.placeholder.com/150']);
+    setImagens([...imagens, 'https://img.icons8.com/?size=100&id=WricNzKvXRnI&format=png&color=000000']);
   };
   
   return (
