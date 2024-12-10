@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 function GaleriaDeImagens() {
   const [imagens, setImagens] = useState([
-    'https://via.placeholder.com/150',
+    'https://img.icons8.com/?size=100&id=l5HER4tCxDsO&format=png&color=000000',
     'https://via.placeholder.com/150',
     'https://via.placeholder.com/150'
   ]);
