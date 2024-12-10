@@ -3,8 +3,8 @@ import React, { useState } from 'react';
 function GaleriaDeImagens() {
   const [imagens, setImagens] = useState([
     'https://img.icons8.com/?size=100&id=l5HER4tCxDsO&format=png&color=000000',
-    'https://via.placeholder.com/150',
-    'https://via.placeholder.com/150'
+    'https://img.icons8.com/?size=100&id=WgGiBAo2tXpR&format=png&color=000000',
+    'https://img.icons8.com/?size=100&id=q9rGeBEhyJ2G&format=png&color=000000'
   ]);
 
   const adicionarImagem = () => {
